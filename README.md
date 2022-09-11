@@ -2,7 +2,7 @@
 
 A flutter NFC NDEF reader for Android and iOS
 
-Tested with Android HCE only with the plugin: [flutter_nfc_emulator](https://github.com/atech-dev/flutter_nfc_emulator.git).
+Tested with Android HCE only with the plugin: [flutter_emulator](https://github.com/atech-dev/flutter_nfc_emulator.git).
 
 ## Getting Started
 
@@ -14,4 +14,3 @@ Android and/or iOS.
 For help getting started with Flutter development, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
