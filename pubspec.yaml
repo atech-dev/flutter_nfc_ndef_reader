@@ -1,7 +1,7 @@
 name: flutter_nfc_ndef_reader
-description: A new Flutter plugin project.
+description: A flutter NFC NDEF reader for Android and iOS
 version: 0.0.1
-homepage:
+homepage: https://github.com/atech-dev/flutter_nfc_ndef_reader.git
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
